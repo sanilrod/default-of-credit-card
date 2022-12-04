@@ -125,7 +125,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <br>
 
 
-<h3 align="center"><b>Developed with :heart: by <a href="https://www.linkedin.com/in/zhibek-kassymkanova/"> Zhibek </a>, <a href="https://www.linkedin.com/in/shaarushi/"> Aarushi </a> , <a href="https://www.linkedin.com/in/sanil-rodrigues/"> Sanil </a>,<a href="https://www.linkedin.com/in/abhiram-desai-2119271b3/">Abhiram </a>.</b></h1>
+<h3 align="center"><b>Developed with :heart: by <a href="https://www.linkedin.com/in/zhibek-kassymkanova/"> Zhibek </a>, <a href="https://www.linkedin.com/in/shaarushi/"> Aarushi </a>, <a href="https://www.linkedin.com/in/sanil-rodrigues/"> Sanil </a>, <a href="https://www.linkedin.com/in/abhiram-desai-2119271b3/">Abhiram </a>.</b></h1>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
