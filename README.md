@@ -1,4 +1,4 @@
-![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/p-1.png?raw=true "Main Page")
+![Home page](https://github.com/sanilrod/default-of-credit-card/blob/main/Cover_img.png?raw=true "Main Page")
 
 <br>
 
