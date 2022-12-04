@@ -6,14 +6,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#ABSTRACT">ABSTRACT</a>
-      <ul>
-        <li><a href="#INTRODUCTION">INTRODUCTION</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#TECH STACK">TECH STACK</a>
-    </li>
+      <a href="#ABSTRACT">ABSTRACT</a> </li>
+    <li><a href="#INTRODUCTION">INTRODUCTION</a></li>
+    <li> <a href="#TECH STACK">TECH STACK</a> </li>
     <li><a href="#Prerequisites and Running Notebook">Prerequisites and Running Notebooks</a></li>
     <li><a href="#Video">Video</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -25,7 +20,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## ABSTRACT
-<p> Ability to distinguish reliable and unreliable clients has a significant impact on future financial stability of financial institutions and for this reason each aspect of the portfolio of potential clients is thoroughly analyzed before making a decision for providing credit. This project is aimed at building a classification supervised machine learning model to identify the credibility of the client based on the client's personal factors and prior payment history. Exploratory data analysis and data preprocessing was conducted to build four classification models: Naive Bayes, Logistic Regression, Decision Tree and Support Vector Machine.</p>
+<p align="justify"> Ability to distinguish reliable and unreliable clients has a significant impact on future financial stability of financial institutions and for this reason each aspect of the portfolio of potential clients is thoroughly analyzed before making a decision for providing credit. This project is aimed at building a classification supervised machine learning model to identify the credibility of the client based on the client's personal factors and prior payment history. Exploratory data analysis and data preprocessing was conducted to build four classification models: Naive Bayes, Logistic Regression, Decision Tree and Support Vector Machine.</p>
 
 The objective of this project is to develop face recognition attendance system. Expected
 achievements in order to fulfill the objectives are:<br>
@@ -36,11 +31,11 @@ achievements in order to fulfill the objectives are:<br>
 
 
 ### INTRODUCTION
-<p>Living in a modern world and being affected by social media and influencers has given way to consumerism and people's desire to spend money on goods and services. While all people aim to live their best lives, not all have sufficient funds to support this kind of life. Living from pay check to pay check does not provide flexibility to people to consume goods they want within such days. Financial institutions have provided people freedom in their consumption by allowing them to lend a certain amount of money for a specific period but protect themselves by imposing interest rates and influencing a borrower's reputation (credit score). Despite the protection methods being used, there are still customers who do not evaluate their purchasing power objectively or encounter challenging financial situations, which eventually result in the inability to repay the money lent and the default of their credit cards.</p>
+<p align="justify">Living in a modern world and being affected by social media and influencers has given way to consumerism and people's desire to spend money on goods and services. While all people aim to live their best lives, not all have sufficient funds to support this kind of life. Living from pay check to pay check does not provide flexibility to people to consume goods they want within such days. Financial institutions have provided people freedom in their consumption by allowing them to lend a certain amount of money for a specific period but protect themselves by imposing interest rates and influencing a borrower's reputation (credit score). Despite the protection methods being used, there are still customers who do not evaluate their purchasing power objectively or encounter challenging financial situations, which eventually result in the inability to repay the money lent and the default of their credit cards.</p>
 
-<P>Taiwan's credit card and cash card debt reached $268 billion USD in February 2006. More than 500,000 borrowers were unable to make their loan payments. They were referred to as "credit card slaves" in Taiwan, a term used to describe people who could only make the minimum payment on their credit card debt each month. This problem caused significant societal issues. Due to debt, some borrowers and their families committed suicide, others lost their homes to foreclosure, and others could not afford their children's college tuition. Some credit card-enslaved people sold illegal drugs to pay back the banks. Lenders, particularly those in lower income groups, came under additional pressure due to some banks' violent and threatening collection practices.</p>
+<P align="justify">Taiwan's credit card and cash card debt reached $268 billion USD in February 2006. More than 500,000 borrowers were unable to make their loan payments. They were referred to as "credit card slaves" in Taiwan, a term used to describe people who could only make the minimum payment on their credit card debt each month. This problem caused significant societal issues. Due to debt, some borrowers and their families committed suicide, others lost their homes to foreclosure, and others could not afford their children's college tuition. Some credit card-enslaved people sold illegal drugs to pay back the banks. Lenders, particularly those in lower income groups, came under additional pressure due to some banks' violent and threatening collection practices.</p>
 
-<p>The default of one credit card may not be an issue for banking institutions, but the insolvency of many customers may result in the bankruptcy of the company itself. In order for a financial institution to protect itself from a high rate of default, it analyzes the portfolio of potential borrowers to evaluate its ability to be a credible borrower and being able to repay the credit within the deadline provided. Our goal of this project is, by analyzing factors that may contribute to the result of default or not default of credit cards, build a model that assesses the probability of credit card result in default. Some of the questions that we would like to answer in our project:</p>
+<p align="justify">The default of one credit card may not be an issue for banking institutions, but the insolvency of many customers may result in the bankruptcy of the company itself. In order for a financial institution to protect itself from a high rate of default, it analyzes the portfolio of potential borrowers to evaluate its ability to be a credible borrower and being able to repay the credit within the deadline provided. Our goal of this project is, by analyzing factors that may contribute to the result of default or not default of credit cards, build a model that assesses the probability of credit card result in default. Some of the questions that we would like to answer in our project:</p>
 
 1) Which model is the best for predicting the probability of credit card default?<br>
 2) What factors are more significant in identifying non-credible customers?<br>
