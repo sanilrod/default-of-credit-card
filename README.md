@@ -24,7 +24,7 @@
 <br>
 
 
-### INTRODUCTION
+## INTRODUCTION
 <p align="justify">Living in a modern world and being affected by social media and influencers has given way to consumerism and people's desire to spend money on goods and services. While all people aim to live their best lives, not all have sufficient funds to support this kind of life. Living from pay check to pay check does not provide flexibility to people to consume goods they want within such days. Financial institutions have provided people freedom in their consumption by allowing them to lend a certain amount of money for a specific period but protect themselves by imposing interest rates and influencing a borrower's reputation (credit score). Despite the protection methods being used, there are still customers who do not evaluate their purchasing power objectively or encounter challenging financial situations, which eventually result in the inability to repay the money lent and the default of their credit cards.</p>
 
 <P align="justify">Taiwan's credit card and cash card debt reached $268 billion USD in February 2006. More than 500,000 borrowers were unable to make their loan payments. They were referred to as "credit card slaves" in Taiwan, a term used to describe people who could only make the minimum payment on their credit card debt each month. This problem caused significant societal issues. Due to debt, some borrowers and their families committed suicide, others lost their homes to foreclosure, and others could not afford their children's college tuition. Some credit card-enslaved people sold illegal drugs to pay back the banks. Lenders, particularly those in lower income groups, came under additional pressure due to some banks' violent and threatening collection practices.</p>
@@ -36,7 +36,7 @@
 
 <br>
 
-### TECH STACK
+## TECH STACK
 
 * [Python](https://www.python.org/)
 * [Seaborn](https://seaborn.pydata.org/)
@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple example steps.
 
 <br>
 
-### Prerequisites and Running Notebook
+## Prerequisites and Running Notebook
 
 1. Open Jypyter Notebook using
 2. Install Prerequisite Libraries
@@ -75,7 +75,7 @@ This are libraries you need to  install them.
 <br>
 
 
-### Algorithms Used
+## Algorithms Used
 
 
 <h3><b>1. Logistic Regression<b></h3>
