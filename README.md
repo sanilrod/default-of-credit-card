@@ -65,8 +65,7 @@ To get a local copy up and running follow these simple example steps.
 1. Open Jypyter Notebook OR Google Colab
 2. Install Prerequisite Libraries
 
-This are libraries you need to  install them.
-* 
+This are libraries you need to  install them. 
   ```sh
   pip install -r requirements.txt
   ```
