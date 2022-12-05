@@ -110,8 +110,24 @@ This are libraries you need to  install them.
 <br>
 <br>
   
+<h3><b>Model Comparison<b></h3>
   
   
+ <img src="https://github.com/sanilrod/default-of-credit-card/blob/main/Img/Comparison.png" width=100% height=100%>
+  
+  
+  
+<br>
+<br>
+  
+<h3><b>Models’ Performance Evaluation Summary Table<b></h3>
+  
+  
+ <img src="https://github.com/sanilrod/default-of-credit-card/blob/main/Img/Table.png" width=100% height=100%>
+  
+  
+  <br>
+  <br>
   
  
 
