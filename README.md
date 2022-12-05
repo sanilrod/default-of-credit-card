@@ -1,4 +1,4 @@
-![Home page](https://github.com/sanilrod/default-of-credit-card/blob/main/Cover_img.png?raw=true "Main Page")
+![Home page](https://github.com/sanilrod/default-of-credit-card/blob/main/Img/Cover.png?raw=true "Main Page")
 
 <br>
 
