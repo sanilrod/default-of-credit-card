@@ -79,8 +79,34 @@ This are libraries you need to  install them.
 ### Algorithms Used
 
 
+<b>1.Logistic Regression<b>
+
+<p align="justify">Establishing a relationship between input features (independent variables) and output features (dependent variables), typically categorical variables that require classification, is the primary goal of logistic regression.</p>
+
+  
+.div{
+
+float: left;
+
+width: 300px;
+
+}
+  
+
+<div> ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-03%2022-39-06.png?raw=true "Main Page") </div>
+  
+  
+
+<br>
+
+</div> ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2016-59-58.png?raw=true "Main Page")</div>
 
 
+  
+  
+  
+  
+  
 
 <!-- USAGE EXAMPLES -->
 ## Images
