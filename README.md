@@ -89,6 +89,8 @@ This are libraries you need to  install them.
 <br>
 <b>confusion matrix<b>
 <br>
+  
+<img src="https://github.com/sanilrod/default-of-credit-card/blob/main/Img/LR_CM.png?raw=true" width=50% height=50%>
 
 ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-03%2022-39-06.png?raw=true "Main Page")
   
