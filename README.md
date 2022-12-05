@@ -6,14 +6,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#ABSTRACT">ABSTRACT</a> </li>
-    <li><a href="#INTRODUCTION">INTRODUCTION</a></li>
-    <li> <a href="#TECH STACK">TECH STACK</a> </li>
+      <a href="#ABSTRACT">Abstract</a> </li>
+    <li><a href="#INTRODUCTION">Introduction</a></li>
+    <li> <a href="#TECH STACK">Tech Stack</a> </li>
     <li><a href="#Prerequisites and Running Notebook">Prerequisites and Running Notebooks</a></li>
-    <li><a href="#Video">Video</a></li>
+    <li><a href="#Algorithms Used">Algorithms Used</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -79,62 +78,92 @@ This are libraries you need to  install them.
 ### Algorithms Used
 
 
-<b>1.Logistic Regression<b>
+<h3><b>1. Logistic Regression<b></h3>
 
 <p align="justify">Establishing a relationship between input features (independent variables) and output features (dependent variables), typically categorical variables that require classification, is the primary goal of logistic regression.</p>
 
   
-.div{
+<br>
+<b>confusion matrix<b>
+<br>
 
-float: left;
-
-width: 300px;
-
-}
-  
-
-<div> ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-03%2022-39-06.png?raw=true "Main Page") </div>
-  
+![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-03%2022-39-06.png?raw=true "Main Page")
   
 
 <br>
-
-</div> ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2016-59-58.png?raw=true "Main Page")</div>
-
-
-  
-  
-  
-  
-  
-
-<!-- USAGE EXAMPLES -->
-## Images
-
-![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-03%2022-39-06.png?raw=true "Main Page")
-
+<b>ROC Plot<b>
 <br>
 
 ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2016-59-58.png?raw=true "Main Page")
 
-<br>
-
-![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2013-44-20.png?raw=true "Dashboard")
 
 <br>
-
-![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2013-45-31.png?raw=true "")
-
+  
+  
+  
+<h3><b>2. Naive Bayes<b></h3>
+  
+<p align="justify"> Naive Bayes is a classification model that classifies new record based on probability of appearance of a predictor given specific class. The only assumption of this model is the independence of predictors. Naive Bayes can be implemented for different types of variables using different probability functions.</p>
+ 
+  
+  
+    
+<br>
+<b>confusion matrix<b>
 <br>
 
-![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-11%2000-57-51.png?raw=true "")
+![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-03%2022-39-06.png?raw=true "Main Page")
+  
+
 <br>
-<!-- ROADMAP -->
-## Video
+<b>ROC Plot<b>
+<br>
 
-[![Everything Is AWESOME](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20(41).png)](https://www.youtube.com/watch?v=YjSQg-kvcv0 "Contactless attendance system")
+![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2016-59-58.png?raw=true "Main Page")
 
 
+<br>
+  
+  
+  
+  
+<h3><b>3. Decision Tree<b></h3>
+  
+<p align="justify"> Using non-parametric supervised learning, decision trees are used for classification and regression. The objective is to develop a model that, through learning, can predict the value of a target variable. The decision rules derived from the characteristics of the data. The fundamental unit of the decision tree is the node. </p>
+ 
+  
+  
+    
+<br>
+<b>confusion matrix<b>
+<br>
+
+![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-03%2022-39-06.png?raw=true "Main Page")
+  
+
+<br>
+<b>ROC Plot<b>
+<br>
+
+![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2016-59-58.png?raw=true "Main Page")
+
+
+<br>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
 
 <!-- CONTRIBUTING -->
 ## Contributing
