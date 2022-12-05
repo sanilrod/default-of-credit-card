@@ -8,8 +8,8 @@
     <li>
       <a href="#ABSTRACT">Abstract</a> </li>
     <li><a href="#INTRODUCTION">Introduction</a></li>
-    <li> <a href="#Tech Stack">Tech Stack</a> </li>
-    <li><a href="#Prerequisites and Running Notebooks">Prerequisites and Running Notebooks</a></li>
+    <li> <a href="#TECH STACK">Tech Stack</a> </li>
+    <li><a href="#Prerequisites and Running Notebook">Prerequisites and Running Notebooks</a></li>
     <li><a href="#Algorithms Used">Algorithms Used</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
