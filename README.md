@@ -21,12 +21,7 @@
 ## ABSTRACT
 <p align="justify"> Ability to distinguish reliable and unreliable clients has a significant impact on future financial stability of financial institutions and for this reason each aspect of the portfolio of potential clients is thoroughly analyzed before making a decision for providing credit. This project is aimed at building a classification supervised machine learning model to identify the credibility of the client based on the client's personal factors and prior payment history. Exploratory data analysis and data preprocessing was conducted to build four classification models: Naive Bayes, Logistic Regression, Decision Tree and Support Vector Machine.</p>
 
-The objective of this project is to develop face recognition attendance system. Expected
-achievements in order to fulfill the objectives are:<br>
-• To detect the face segment from the video frame.<br>
-• To extract the useful features from the face detected.<br>
-• To classify the features in order to recognize the face detected.<br>
-• To record the attendance of the identified teacher.<br>
+<br>
 
 
 ### INTRODUCTION
@@ -39,7 +34,7 @@ achievements in order to fulfill the objectives are:<br>
 1) Which model is the best for predicting the probability of credit card default?<br>
 2) What factors are more significant in identifying non-credible customers?<br>
 
-
+<br>
 
 ### TECH STACK
 
@@ -62,7 +57,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites and Running Notebook
 
-1. Open Jypyter Notebook OR Google Colab
+1. Open Jypyter Notebook using
 2. Install Prerequisite Libraries
 
 This are libraries you need to  install them. 
