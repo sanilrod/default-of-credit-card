@@ -83,6 +83,9 @@ This are libraries you need to  install them.
 <p align="justify">Establishing a relationship between input features (independent variables) and output features (dependent variables), typically categorical variables that require classification, is the primary goal of logistic regression.</p>
 
   
+![alt-text-1](https://github.com/sanilrod/default-of-credit-card/blob/main/Img/LR_CM.png?raw=true "Main Page") ![alt-text-2](https://github.com/sanilrod/default-of-credit-card/blob/main/Img/LR_ROC.png?raw=true "Main Page")
+  
+  
 <br>
 <b>confusion matrix<b>
 <br>
